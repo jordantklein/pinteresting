@@ -13,3 +13,4 @@
  *= require_tree .
  *= require_self
  */
+.jumbotron h3 { font-size: 2.0em}
