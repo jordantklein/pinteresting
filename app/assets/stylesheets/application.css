@@ -12,5 +12,7 @@
  *
  *= require_tree .
  *= require_self
+ *= require 'masonry/transitions'
+
  */
 .jumbotron h3 { font-size: 2.0em}
